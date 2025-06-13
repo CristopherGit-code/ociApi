@@ -27,6 +27,8 @@ Slack App chatbot able to summarize slack channels based on history metadata and
 
 ## Basic walkthrough
 
+- [Demo video](walkthrough/InnoBot_demo.mp4)
+- [Flow diagram](walkthrough/InnoLab_Bot_Flow.drawio.png)
 - Use ```llm_client``` to tune the model from SandBox
 - API calls to gather user and channel information in ```slack_metadata```
 - Home logic to show summary and commands in ```home_manager```
