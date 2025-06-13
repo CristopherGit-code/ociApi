@@ -1,6 +1,6 @@
 # Slack InnoLab Bot lite
 
-Slack App chatbot able to suumarize slack channels based on history metadata and answer questions
+Slack App chatbot able to summarize slack channels based on history metadata and answer questions
 
 ## Features
 
@@ -18,8 +18,8 @@ Slack App chatbot able to suumarize slack channels based on history metadata and
     - python-dotenv
     - oci
     - oracledb
-2. Create .env file to set the environmet variables for slack
-    - Ensure Event suscriptions, OAuth permissions form Slack App
+2. Create .env file to set the environment variables for slack
+    - Ensure Event subscriptions, OAuth permissions form Slack App
 3. Fill config file in /util with the LLM client variables
     - Access to AI igui SandBox required for credentials
     - Make sure OCI config path is set
